@@ -11,7 +11,7 @@ int[] GetArray(int length, int min, int max)
     return arr;
 }
 
-int[] array = GetArray(10, 100, 1000);
+int[] array = GetArray(10, 100, 999);
 System.Console.WriteLine(string.Join(' ', array));
 int Even(int[] array)
 {
