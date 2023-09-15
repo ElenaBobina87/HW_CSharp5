@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.AssemblyInfo.cs
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\bin\Debug\net6.0\Task014.exe
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\bin\Debug\net6.0\Task014.deps.json
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\bin\Debug\net6.0\Task014.runtimeconfig.json
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\bin\Debug\net6.0\Task014.dll
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\bin\Debug\net6.0\Task014.pdb
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.dll
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\refint\Task014.dll
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.pdb
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\Task014.genruntimeconfig.cache
+C:\Users\Елена\Desktop\HW_CSharp\HW5.1\HW_CSharp5\Task014\obj\Debug\net6.0\ref\Task014.dll
